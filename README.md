@@ -2,8 +2,8 @@
 Daily use of python scripts
 -----
 My Institute provides internet access with the help of some kind of firewall. User have to authenticate to use internet. On Successfuly authenctication "SESSION TAB" is opened. 
-SESSION TAB must remain open for active connection also, this tab open only for 2000 seconds.
-After 2000 seconds, user must reauthenticate for the same connection.
+SESSION TAB must remain open for active internet access, but this tab open only for 2000 seconds.
+After 2000 seconds, user must reauthenticate for the same internet access.
 
 OVERHEAD!!!
 ------
