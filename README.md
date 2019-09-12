@@ -15,3 +15,9 @@ I HAVE USED
 * pyautogui library
 * webbrowser library
 * ubuntu FIREFOX
+
+
+# UPDATE
+
+I got another idea for the same problem. I can use the Chrome Extension for the same. 
+we can use chrome.tabs api for listing all tab and control specific tab.
